@@ -1,8 +1,4 @@
 .box{
-}
-.box p{
-    color: green;
-    font-size: 20px;
-    font-weight: bold;
-    border: 3px solid red;
+    border: 2px solid rebeccapurple;
+    text-align: center;
 }
