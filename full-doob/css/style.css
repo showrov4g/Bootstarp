@@ -1,0 +1,27 @@
+body{
+    font-family: 'tahoma';
+}
+img{
+    width: 100%;
+}
+header{
+    z-index: 10;
+}
+header .menu .nav li a{
+    color: #acacac !important;
+    font-size: 16px;
+    line-height: 50px;
+}
+header .menu .nav li a:hover{
+    color: #059DFF !important;
+}
+header #button a{
+    background-image: linear-gradient(to right, #8c31ee , #f7263e);
+}
+/* header area design finish here */
+
+.hero{
+    background-image: url(../img/bg/bg-image-22.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
