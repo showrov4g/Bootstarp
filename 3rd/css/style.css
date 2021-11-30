@@ -1,0 +1,11 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    background: rgb(0,255,196);
+    background: linear-gradient(90deg, rgba(0,255,196,1) 0%, rgba(24,92,173,1) 50%, rgba(2,0,36,1) 100%);
+}
+header h2{
+    font-family: 'Montserrat', sans-serif;
+}
